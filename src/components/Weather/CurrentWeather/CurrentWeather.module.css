@@ -1,0 +1,40 @@
+
+.Current-Weather{
+   width: 400px;
+   height: 160px;
+   background-image : url("./weather1.jpg"); 
+   border-radius: 10px;
+}
+.Weather{
+   padding-top: 25px;
+   padding-bottom: 25px;
+   padding-left: 5%;
+   font-size: 0.7rem;
+}
+.Heading{
+   color: white;
+   font-size: 1.2rem;
+   padding: 10px;
+}
+
+.cloud-logo{
+   padding: 6% 5%;
+   color: rgb(192, 186, 186);
+}
+
+.temp{
+   display: inline;
+   padding: 5%;
+   color: white;
+   font-family: 'Rubik', sans-serif;
+   font-size: 3.5rem;
+}
+
+.city{
+   display: inline;
+   padding: 0;
+   color: white;
+   font-family: 'Rubik', sans-serif;
+   font-size: 1.2rem;
+}
+
